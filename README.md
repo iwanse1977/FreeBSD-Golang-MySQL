@@ -10,4 +10,4 @@ Build & Run: go run main.go
 Go to http://192.168.5.2:4000
 ```
 # More Information
-https://www.unixwinbsd.site/2024/01/build-web-application-with-google-go.html
+https://inchimediatama-nusantara.blogspot.com/2024/09/build-web-application-with-google-go_01365377721.html
